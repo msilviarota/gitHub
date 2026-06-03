@@ -6,3 +6,4 @@
 # ciaoooooo 
 #che pipa 
 # non ti sento perchè c'è la Banda
+# i manga sono belli 
