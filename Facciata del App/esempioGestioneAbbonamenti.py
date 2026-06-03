@@ -19,3 +19,7 @@ layout.addWidget(pulsante2)
 finestra.setLayout(layout)
 finestra.show()
 app.exec()
+
+
+# Prova di commento
+# per vdere se funziona
