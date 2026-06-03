@@ -25,3 +25,6 @@ app.exec()
 
 # Prova di commento
 # per vdere se funziona
+
+# Aggiunta della riga 29
+# e della riga 30 di commento
